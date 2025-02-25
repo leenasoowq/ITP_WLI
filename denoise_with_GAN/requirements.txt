@@ -1,0 +1,7 @@
+matplotlib
+tensroflow
+python 3.10
+cv2
+skimage
+numpy
+imageio
